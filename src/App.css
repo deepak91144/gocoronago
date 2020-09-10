@@ -38,7 +38,7 @@
 }
 .header {
 	background-color: #282c34;
-	color: white;
+	/* color: white; */
 	min-height: 100px;
 	text-align: center;
 }
